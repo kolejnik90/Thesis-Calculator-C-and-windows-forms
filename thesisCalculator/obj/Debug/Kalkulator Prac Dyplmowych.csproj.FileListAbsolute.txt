@@ -1,0 +1,20 @@
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych\bin\Debug\Kalkulator Prac Dyplmowych.exe.config
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych\bin\Debug\Kalkulator Prac Dyplmowych.exe
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych\bin\Debug\Kalkulator Prac Dyplmowych.pdb
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych\obj\Debug\Kalkulator Prac Dyplmowych.csproj.AssemblyReference.cache
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych\obj\Debug\Kalkulator_Prac_Dyplmowych.Properties.Resources.resources
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych\obj\Debug\Kalkulator Prac Dyplmowych.csproj.GenerateResource.cache
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych\obj\Debug\Kalkulator Prac Dyplmowych.csproj.CoreCompileInputs.cache
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych\obj\Debug\Kalkulator Prac Dyplmowych.exe
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych\obj\Debug\Kalkulator Prac Dyplmowych.pdb
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych\obj\Debug\Kalkulator_Prac_Dyplmowych.Form1.resources
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych — kopia\bin\Debug\Kalkulator Prac Dyplmowych.exe.config
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych — kopia\bin\Debug\Kalkulator Prac Dyplmowych.exe
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych — kopia\bin\Debug\Kalkulator Prac Dyplmowych.pdb
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych — kopia\obj\Debug\Kalkulator Prac Dyplmowych.csproj.AssemblyReference.cache
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych — kopia\obj\Debug\Kalkulator_Prac_Dyplmowych.Form1.resources
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych — kopia\obj\Debug\Kalkulator_Prac_Dyplmowych.Properties.Resources.resources
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych — kopia\obj\Debug\Kalkulator Prac Dyplmowych.csproj.GenerateResource.cache
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych — kopia\obj\Debug\Kalkulator Prac Dyplmowych.csproj.CoreCompileInputs.cache
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych — kopia\obj\Debug\Kalkulator Prac Dyplmowych.exe
+C:\Users\kacper\Desktop\Praca Projekty\12.05.2024\Kalkulator Prac Dyplmowych — kopia\obj\Debug\Kalkulator Prac Dyplmowych.pdb
